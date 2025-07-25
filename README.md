@@ -22,3 +22,9 @@ Whether you're a gaming enthusiast or a data visualization nerd, this report pre
 
 ## 💡 Inspiration
 Inspired by character selection screens in video games, this report reimagines Street Fighter bios in a data-friendly format. It’s a creative fusion of gaming and analytics.
+
+## Snapshots
+<img width="570" height="319" alt="image" src="https://github.com/user-attachments/assets/28e9aca4-05f7-49bd-a63b-c52f3fc2f91e" />
+<img width="566" height="320" alt="image" src="https://github.com/user-attachments/assets/15e59eff-eac9-4570-a181-182c4dd95a63" />
+<img width="568" height="317" alt="image" src="https://github.com/user-attachments/assets/dda028bd-da69-4c62-b97d-40703e6ac0fb" />
+
